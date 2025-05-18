@@ -133,7 +133,9 @@ You can run directly from:
 ([(https://github.com/amrelgarhi6/Foodics-AutomationTask/blob/main/allure-example.png)])
 
 ## To run Allure report
-** allure serve allure-results**
+
+**allure serve allure-results**
+
 
 ### Allure Report URL (example):
 
