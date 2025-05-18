@@ -129,7 +129,7 @@ You can run directly from:
 
 ### Allure Report Preview:
 
-📸 [View Screenshot]([screenshots/allure-example.png](https://github.com/amrelgarhi6/Foodics-AutomationTask/blob/main/allure-example.png))
+📸 [View Screenshot]((https://github.com/amrelgarhi6/Foodics-AutomationTask/blob/main/allure-example.png))
 
 ### Allure Report URL (example):
 
