@@ -132,6 +132,9 @@ You can run directly from:
 📸 [View Screenshot] 
 ([(https://github.com/amrelgarhi6/Foodics-AutomationTask/blob/main/allure-example.png)])
 
+## To run Allure report
+** allure serve allure-results**
+
 ### Allure Report URL (example):
 
 📎  Check Allure-result package
