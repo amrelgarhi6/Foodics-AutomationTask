@@ -129,11 +129,11 @@ You can run directly from:
 
 ### Allure Report Preview:
 
-📸 [View Screenshot](screenshots/allure-example.png)
+📸 [View Screenshot]([screenshots/allure-example.png](https://github.com/amrelgarhi6/Foodics-AutomationTask/blob/main/allure-example.png))
 
 ### Allure Report URL (example):
 
-📎 `http://localhost:63342/allure-report/index.html`
+📎  Check Allure-result package
 
 ---
 
