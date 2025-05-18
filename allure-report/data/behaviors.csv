@@ -1,0 +1,5 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","Validate CRU [Create - Read - Update] for Users endpoint","2","0","Validate that the Get /users with specific {ID} Endpoint get this user when sending a valid request.","0"
+"0","","0","Validate CRU [Create - Read - Update] for Users endpoint","3","0","Validate that the Post /users Endpoint create a new user when sending a valid request.","0"
+"0","","0","Purchase affordable video games from Amazon Egypt","1","0","Add all video games under 15,000 EGP with filters and verify cart summary","0"
+"0","","0","Validate CRU [Create - Read - Update] for Users endpoint","1","0","Validate that the Put /users Endpoint create a new user when sending a valid request.","0"

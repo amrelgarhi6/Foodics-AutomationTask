@@ -1,0 +1,14 @@
+<suite name="Parallel Suite" parallel="tests" thread-count="2">
+    <test name="Test on Chrome">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="runners.TestRunnerWeb"/>
+        </classes>
+    </test>
+    <test name="Test on Edge">
+        <parameter name="browser" value="edge" />
+        <classes>
+            <class name="runners.TestRunnerWeb"/>
+        </classes>
+    </test>
+</suite>

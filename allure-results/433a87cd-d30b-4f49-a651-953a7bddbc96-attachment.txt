@@ -1,0 +1,1 @@
+java.lang.AssertionError: ❌ MISSING or mismatched item in cart: {price=11999, title=Microsoft Xbox Elite Series 2 Wireless Controller Core Edition, White} expected [true] but found [false]

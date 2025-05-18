@@ -1,0 +1,6 @@
+{
+  "Profile_InvalidBadRequestErrorMessage": "invalid request data",
+  "Profile_InvalidUnauthorizedErrorMessage": "Unauthorized",
+  "Profile_InvalidForbiddenErrorMessage": "User is not authorized to access this resource with an explicit deny",
+  "Profile_InvalidNotFoundErrorMessage": "Profile doesn't exist"
+}
