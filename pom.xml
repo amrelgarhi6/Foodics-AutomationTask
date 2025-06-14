@@ -171,11 +171,12 @@
             <artifactId>aspectjweaver</artifactId>
             <version>${aspectj.version}</version>
         </dependency>
-        <dependency>
-            <groupId>io.qameta.allure</groupId>
-            <artifactId>allure-cucumber7-adaptor</artifactId>
-            <version>2.20.1</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>io.qameta.allure</groupId>-->
+<!--            <artifactId>allure-cucumber7-adaptor</artifactId>-->
+<!--            <version>2.24.0</version>-->
+<!--        </dependency>-->
+
 
     </dependencies>
 
